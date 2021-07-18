@@ -75,4 +75,5 @@ while True:
                 (255, 0, 0), 3)
     # 12. Display
     cv2.imshow("Image", img)
-    cv2.waitKey(1)
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
