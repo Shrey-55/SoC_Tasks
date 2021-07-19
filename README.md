@@ -42,6 +42,6 @@ Here too, the handtracking module is used and number of fingers are counted by c
 The handtracking module is added in "Extras"
 
 ### Facial detection
-Here, a facial recognition module is used
+Here, a facial recognition module is used and 
 
 
