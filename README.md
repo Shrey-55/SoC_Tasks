@@ -22,11 +22,26 @@ Code: To take videos from youtube and also output directly to the drive, some li
 After all the initialisations, the models are loaded and just like the previous code, they are processed and an output file is sent to the drive. Here are some results.
 
 Input file: https://www.youtube.com/watch?v=Xygk7UjKM2g
-Output file:
+
+Output file:https://drive.google.com/file/d/1Izj70VY_30Ttyv0ambl7-5QkRKo79y8J/view?usp=sharing
+
+### Task6(C1) Facial detection app
+Facial detection app , with age and gender predictions is made. A zip file to the android studio project is attached here. The app is made using Tensorflow Lite on android studio.
+
+## Other CV projects:
+
+### Gesture Volume control:
+Handtracking module is used to detect hand and control volume with respect to tha distance between tip of thumb and tip of index finger.
+
+### AI virtual mouse:
+Again the handtracking module is used to make a mouse with different gestures of the hand. I have added feature to move (when 1 finger up), stop (when 2 fingers up), click ( when index and middle up and close), scroll up( fist) , scroll down( all fingers up)
+
+### Finger counting:
+Here too, the handtracking module is used and number of fingers are counted by comparing the co-ordinates of tip and base of finger.
+
+The handtracking module is added in "Extras"
+
+### Facial detection
+Here, a facial recognition module is used
 
 
-### Task1(A1)
-### Task1(A1)
-### Task1(A1)
-### Task1(A1)
-### Task1(A1)
