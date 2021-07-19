@@ -17,6 +17,14 @@ My code: After getting incorrect range predictions, I had a look at the predicti
 Models used for the code can be found in "Extras" folder.
 
 ### Task5(B4) Age and Gender Detection on youtube videos
+The same  models as used in Task4 are now used on youtube videos.
+Code: To take videos from youtube and also output directly to the drive, some libraries are added first. Also since this code was written on Google colab, appropriate patches are added. 
+After all the initialisations, the models are loaded and just like the previous code, they are processed and an output file is sent to the drive. Here are some results.
+
+Input file: https://www.youtube.com/watch?v=Xygk7UjKM2g
+Output file:
+
+
 ### Task1(A1)
 ### Task1(A1)
 ### Task1(A1)
