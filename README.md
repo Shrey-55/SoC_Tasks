@@ -1,11 +1,12 @@
 # SoC_Tasks
-
+Tasks done: A1, A2, B3, B4, C1, D5, D6, D7, D9
+Total Credits=120
 
 ### Task1(A1) Pandas Introduction
 Introductory exercise of pandas. Learnt about import a csv file and different ways of extracting the information needed from the data.
 ### Task2(A2) Matplotlib Introduction
 Introductory exercise of matplotlib. Used along with python to plot different types of graph for the data provided.
-### Task3b(B2) Seaborn Introduction
+
 
 ### Task4(B3) Age and Gender Detection
 Used a pre-trained Caffe model to make an Age and Gender detection project. For this project a youtube tutorial-https://www.youtube.com/watch?v=rZTHD-kewt8 was referred. 
@@ -30,18 +31,18 @@ Facial detection app , with age and gender predictions is made. A zip file to th
 
 ## Other CV projects:
 
-### Gesture Volume control:
+### Gesture Volume control(D5):
 Handtracking module is used to detect hand and control volume with respect to tha distance between tip of thumb and tip of index finger.
 
-### AI virtual mouse:
+### AI virtual mouse(D6):
 Again the handtracking module is used to make a mouse with different gestures of the hand. I have added feature to move (when 1 finger up), stop (when 2 fingers up), click ( when index and middle up and close), scroll up( fist) , scroll down( all fingers up)
 
-### Finger counting:
+### Finger counting(D7):
 Here too, the handtracking module is used and number of fingers are counted by comparing the co-ordinates of tip and base of finger.
 
 The handtracking module is added in "Extras"
 
-### Facial detection
-Here, a facial recognition module is used and 
+### Facial detection(D9):
+Here, a facial recognition module is used to detect the face. This module is again written by me with help of youtube tutorials. Mediapipe is used
 
 
