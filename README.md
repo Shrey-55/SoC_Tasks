@@ -27,6 +27,8 @@ Input file: https://www.youtube.com/watch?v=Xygk7UjKM2g
 Output file:https://drive.google.com/file/d/1Izj70VY_30Ttyv0ambl7-5QkRKo79y8J/view?usp=sharing
 
 ### Task6(C1) Facial detection app
+Link to the apk file of the app:https://drive.google.com/file/d/1Uv761Mjo9noqI-YbGMa1MQ9tDF3viHiN/view?usp=sharing
+The file couldn't be added in the repo due to it's large size.
 Facial detection app , with age and gender predictions is made. A zip file to the android studio project is attached here. The app is made using Tensorflow Lite on android studio.
 
 ## Other CV projects:
